@@ -32,7 +32,7 @@ Run the application:
 streamlit run app.py
 ```
 
-##💡 How It Works
+## 💡 How It Works
 
 - User Input: You provide a topic (e.g., "Natural Language Processing") in the Streamlit interface.
 - Research Agent: It researches 3-5 classic and 3-5 innovative feature extraction techniques related to the topic that can be implemented in Scikit-learn transformers.
