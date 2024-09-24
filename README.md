@@ -2,7 +2,7 @@
 
 # **ResearchCrew**
 
-🤖🧠 **ResearchCrew**: This project is a Streamlit-based application that utilizes CrewAI to orchestrate multiple agents working together on feature extraction research and implementation. It automates the process of researching, coding, and reviewing feature extraction techniques for a specified topic, especially for use in Scikit-learn transformers.
+🤖🧠 **ResearchCrew**: Streamlit-based application using CrewAI to automates the process of researching, coding, and reviewing feature extraction techniques for a specified topic, especially for use in Scikit-learn transformers.
 
 </div>
 
