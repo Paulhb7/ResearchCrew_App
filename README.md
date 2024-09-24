@@ -4,10 +4,10 @@ This project is a Streamlit-based application that utilizes CrewAI to orchestrat
 
 🚀 Features
 
-Research Agent: Identifies both classic and innovative feature extraction methods directly implementable in Scikit-learn.
-Coding Agent: Implements custom Scikit-learn transformers based on the methods identified by the Research Agent.
-Review Agent: Reviews the implementation, ensures code quality, and provides a clear synthesis of the techniques and code rationale.
-Streamlit Interface: User-friendly interface for inputting topics and viewing results in real-time.
+- Research Agent: Identifies both classic and innovative feature extraction methods directly implementable in Scikit-learn.
+- Coding Agent: Implements custom Scikit-learn transformers based on the methods identified by the Research Agent.
+- Review Agent: Reviews the implementation, ensures code quality, and provides a clear synthesis of the techniques and code rationale.
+- Streamlit Interface: User-friendly interface for inputting topics and viewing results in real-time.
 
 🛠️ Tech Stack
 
