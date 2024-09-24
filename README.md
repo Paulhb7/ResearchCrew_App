@@ -50,6 +50,6 @@ streamlit run app.py
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-🤝 Contributing
+## 🤝 Contributing
 
 Feel free to open an issue or submit a pull request if you want to contribute to this project!
